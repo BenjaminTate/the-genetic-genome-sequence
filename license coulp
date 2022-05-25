@@ -1,0 +1,2 @@
+(opcode, oparg=None, /, *, jump=None)
+Compute the stack effect of the opcode.
