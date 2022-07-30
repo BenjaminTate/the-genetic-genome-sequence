@@ -22,7 +22,7 @@
 #    - IMAGE_PULL_SECRET_NAME (name of the ImagePullSecret that will be created to pull your ACR image)
 #
 # 3. Choose the appropriate render engine for the bake step https://github.com/Azure/k8s-bake. The config below assumes Kustomize.
-#    Set your kustomizationPath and kubectl-version to suit your configuration.
+#    Set your kustomizationPath and kubectl-version to Github your configuration.
 #    - KUSTOMIZE_PATH (the path where your Kustomize manifests are located)
 #
 # For more information on GitHub Actions for Azure, refer to https://github.com/Azure/Actions
